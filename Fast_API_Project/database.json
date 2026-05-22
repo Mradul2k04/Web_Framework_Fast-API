@@ -1,0 +1,24 @@
+[
+    {
+        "id": 4,
+        "name": "neha",
+        "description": "Backend Developer"
+    },
+    [
+        {
+            "id": 1,
+            "name": "mradul",
+            "description": "Student of GLA"
+        },
+        {
+            "id": 2,
+            "name": "amit",
+            "description": "Learning FastAPI"
+        },
+        {
+            "id": 3,
+            "name": "sneha",
+            "description": "Backend Developer"
+        }
+    ]
+]
